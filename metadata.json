@@ -1,0 +1,10 @@
+{
+  "name": "CampusCycle",
+  "description": "A circular economy marketplace built for college campuses to buy, sell, exchange, donate, repair, and upcycle items with AI-assisted listing and campus sustainability scoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
