@@ -10,7 +10,7 @@ CampusCycle is a circular economy marketplace designed specifically for college 
 
 ## Live Demo
 
-**[Launch CampusCycle]((https://campus-cycle-two.vercel.app/))**
+**[Launch CampusCycle](https://campus-cycle-two.vercel.app/)**
 
 ## Source Code
 
